@@ -1,5 +1,6 @@
 package br.com.edilsonvilarinho.mymvvm;
 
+import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
@@ -12,7 +13,7 @@ public class MainViewModel extends ViewModel {
         cont.setValue(0);
     }
 
-    public MutableLiveData<Integer> getCont() {
+    public LiveData<Integer> getCont() {
         return cont;
     }
 
