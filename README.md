@@ -14,6 +14,6 @@ Android counter app example using MVVM
  - androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0
 
 
-## Contribuidor 
+## Contributors 
 
 - **Rafael Leite** [Linkedin](https://www.linkedin.com/in/rafaelclu/) - [GitHub](https://github.com/rafaelclu)
