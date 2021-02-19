@@ -6,11 +6,13 @@ Android counter app example using MVVM
 
 # Execution
 
+![alt text](https://github.com/edilsonvilarinho/MyMVVM/blob/master/img/Android-Emulator-Pixel_4_XL_API_26_.gif)
+
 ## Dependencies 
 
  - androidx.lifecycle:lifecycle-livedata-ktx:2.2.0
  - androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0
- 
+
 
 ## Contribuidor 
 
